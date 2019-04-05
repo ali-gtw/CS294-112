@@ -1,3 +1,19 @@
+# HW1
+hw1/expert_data/*
+!hw1/expert_data/PLACEHOLDER
+
+hw1/bc_models/*
+!hw1/bc_models/PLACEHOLDER
+
+hw1/dagger_models/*
+!hw1/dagger_models/PLACEHOLDER
+
+# Additional
+.idea
+__MACOSX
+.DS_Store
+
+# Initial repo .gitignore
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
